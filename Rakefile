@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.summary = %Q{hatena to Latex}
   gem.description = %Q{hatena to Latex}
   gem.email = "onodes@gmail.com"
-  gem.authors = ["onodes"]
+  gem.authors = ["Daichi Onodera"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
   # and development dependencies are only needed for development (ie running rake tasks, tests, etc)
   #  gem.add_runtime_dependency 'jabber4r', '> 0.1'
